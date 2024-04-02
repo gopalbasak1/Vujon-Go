@@ -17,8 +17,17 @@ a{
 }
 
 .app{
-  width: 1280px;
+  width: 80%;
   margin: auto;
+}
+
+@keyframes fadeIn{
+  0%{
+    opacity: 0;
+  }
+  100%{
+    opacity: 1;
+  }
 }
 
 

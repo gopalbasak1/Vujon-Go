@@ -59,7 +59,7 @@ import profile_icon from './profile_icon.png'
 import bag_icon from './bag_icon.png'
 import logout_icon from './logout_icon.png'
 import parcel_icon from './parcel_icon.png'
-import vujon from './Vujon Go....gif'
+import vujon from './Vujon Go.jpg'
 
 export const assets = {
     vujon,
